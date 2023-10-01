@@ -18,7 +18,7 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-	void Bootstrap(flecs::world& ecs);
+	virtual void Bootstrap(flecs::world& ecs);
 
 public:	
 	// Called every frame

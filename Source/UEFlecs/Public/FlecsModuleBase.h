@@ -15,6 +15,6 @@ class UEFLECS_API UFlecsModuleBase : public UObject
 {
 	GENERATED_BODY()
 	
-	protected:
+	public:
 		virtual void Initialize(flecs::world& ecs);
 };
