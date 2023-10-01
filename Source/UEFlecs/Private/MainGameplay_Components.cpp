@@ -7,5 +7,5 @@
 void UMainGameplay_Components::Initialize(flecs::world& ecs)
 {
     // REGISTER COMPONENTS HERE
-    ecs.component<Transform>();
+    //ecs.component<Transform>();
 }
