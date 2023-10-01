@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "UEFlecsEditor Editor Win64 Development (UEFlecs)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "includePath": [
+                "${workspaceFolder}\\Source\\**",
+                "${workspaceFolder}\\Intermediate\\**",
+                "${workspaceFolder}/Source/FlecsLibrary/Public",
+                "D:/Epic Games/UE_5.2/Engine/Source/Runtime/Core/Public",
+                "${workspaceFolder}/Source",
+                "D:/Epic Games/UE_5.2/Engine/Source/Runtime/Engine/Classes"
+            ],
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\UE\\Projects\\UEFlecs\\Source\\UEFlecs\\UEFlecs.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs\\UEFlecs.261.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\UEFlecs\\Source\\UEFlecs\\UEFlecs.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs\\UEFlecs.261.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\UEFlecs\\Source\\UEFlecs\\UEFlecs.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs\\UEFlecs.261.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\UEFlecs\\Source\\UEFlecs\\UEFlecsGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs\\UEFlecs.261.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE\\Projects\\UEFlecs\\Source\\UEFlecs\\UEFlecsGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE\\Projects\\UEFlecs\\.vscode\\compileCommands_UEFlecs\\UEFlecs.261.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
