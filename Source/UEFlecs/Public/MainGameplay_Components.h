@@ -10,6 +10,10 @@
 
 
 
+struct Transform 
+{
+	FTransform Transform;
+};
 
 struct ISM_Map
 {

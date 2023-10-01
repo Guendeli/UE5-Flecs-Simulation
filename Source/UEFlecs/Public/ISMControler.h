@@ -28,8 +28,16 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	void Initialize(UStaticMesh* InMesh, UMaterialInterface* InMaterial) const;
+	int32 AddInstance(FVector location);
+	int32 AddInstance();
+	int32 GetInstanceCount() const;
+	void CreateOrExpandTransformArray();
+	void SetTransform(int32 instanceIndex, const FTransform& transform);
+	void BatchUpdateTransform() const;
+	void RemoveInstance(int32 instanceIndex);
 
 
 private:
 	TArray<FTransform> transforms;
+	TQueue<int> indexPool;
 };
